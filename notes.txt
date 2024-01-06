@@ -1,0 +1,5 @@
+docker run 
+-it flag gives you a terminal with the container you spun up
+
+docker container prune
+removes all the containers that are not running currently
